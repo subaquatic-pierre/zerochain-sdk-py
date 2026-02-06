@@ -1,6 +1,13 @@
 # Python SDK for 0Chain
 
-This is a Python SDK for 0Chain Blockchain network. Below is a mapping from current ZBox and ZClient CLI methods to Python SDK methods
+This is a Python SDK for 0Chain Blockchain network. Below is a mapping from current ZBox and ZClient CLI methods to Python SDK methods.
+
+## Parent Project
+
+Parent project rebranded to Zus
+
+https://github.com/0chain/0chain
+https://zus.network/
 
 ## ZBox CLI method map
 
